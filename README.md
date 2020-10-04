@@ -1,4 +1,4 @@
 # 0-96-OLED-STM32F4
 0,96“OLED STM32F4
 
-![image](https://github.com/TTowFive/0-96-OLED-STM32F4/effect.png)
+![image](https://github.com/TTowFive/0-96-OLED-STM32F4/logic.png)
