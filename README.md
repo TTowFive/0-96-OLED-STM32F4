@@ -17,5 +17,6 @@
 
 <br><br>
 # 效果图 和 逻辑分析仪时序图
-![image](https://github.com/TTowFive/0-96-OLED-STM32F4/blob/main/effect.png)
+
+![image](https://github.com/TTowFive/0-96-OLED-STM32F4/blob/main/effect.jpg)
 ![image](https://github.com/TTowFive/0-96-OLED-STM32F4/blob/main/logic.png)
